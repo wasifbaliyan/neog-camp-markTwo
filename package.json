@@ -1,0 +1,21 @@
+{
+  "name": "doraemon-quiz-cli-app",
+  "version": "1.0.0",
+  "description": "Doraemon is a very popular japanese animation series for kids. This app is a quiz based on the characters of doraemon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doraemon",
+    "quiz",
+    "cli",
+    "quiz-cli-app"
+  ],
+  "author": "Wasif Baliyan (https://wasifbaliyan.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
